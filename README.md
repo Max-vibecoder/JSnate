@@ -1,4 +1,4 @@
-# JSnate 🐍
+# JSnake 🐍
 Simple juego de la serpiente en JS
 
 ## Captura
